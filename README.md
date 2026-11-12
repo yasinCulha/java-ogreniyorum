@@ -31,6 +31,7 @@ Sıfırdan Java öğrenme yolculuğumda yazdığım örnekleri, alıştırmalar�
 |---|---|
 | `oop-giris` | Sınıf, nesne ve paket kavramlarına giriş (`Ogrenci`) |
 | `kapsulleme` | Kapsülleme (encapsulation), `private` alanlar, getter/setter (`Calisan`) |
+| `inheritence` | Kalıtım (inheritance), `Kopek` ve `Kedi` sınıflarıyla `hayvan` paketi |
 | `alistirma-calisanlar` | Çalışan sınıfı ile alıştırma |
 | `giseUygulamasi-alistirma` | Gişe uygulaması alıştırması (`TCKNN`) |
 
