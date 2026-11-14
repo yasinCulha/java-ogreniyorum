@@ -16,6 +16,8 @@ Sıfırdan Java öğrenme yolculuğumda yazdığım örnekleri, alıştırmalar�
 | `Diziler` | Dizi tanımlama ve dizilerle çalışma |
 | `methods` | Metot yazma, parametre ve dönüş değeri |
 | `breakpoint` | Hata ayıklama (debug) ve breakpoint kullanımı |
+| `arrayList` | `ArrayList` ile esnek listeler: ekleme, silme, `get`/`set`, `contains`, `isEmpty` |
+| `hashmap` | `HashMap` ile key-value çiftleri tutma ve `entrySet` ile gezme |
 
 ### Mini Uygulamalar
 
@@ -32,6 +34,7 @@ Sıfırdan Java öğrenme yolculuğumda yazdığım örnekleri, alıştırmalar�
 | `oop-giris` | Sınıf, nesne ve paket kavramlarına giriş (`Ogrenci`) |
 | `kapsulleme` | Kapsülleme (encapsulation), `private` alanlar, getter/setter (`Calisan`) |
 | `inheritence` | Kalıtım (inheritance), `Kopek` ve `Kedi` sınıflarıyla `hayvan` paketi |
+| `Interface` | Arayüz (interface): `IHgs` arayüzü, `Arac` sınıfı ve `Otomobil` ile HGS örneği |
 | `alistirma-calisanlar` | Çalışan sınıfı ile alıştırma |
 | `giseUygulamasi-alistirma` | Gişe uygulaması alıştırması (`TCKNN`) |
 
